@@ -1,2 +1,0 @@
-# exampleS
-Git example repository
